@@ -36,8 +36,13 @@ The system is *instrumented* with:
    - Use the forward/reverse buttons in the lower left to step through iterations.  
    - Note changes in received power and BER display (eye diagram, Q factor, BER) with fiber length.
 ---
+## Tabulation
+<img width="985" height="1599" alt="image" src="https://github.com/user-attachments/assets/9d1cf2fe-791e-4426-9c0e-4469c9b6dfcc" />
+
+```
 ## Result
 
+Thus Optiperformer software was installed and Link performance is evaluated.
 ---
 
 
